@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="roll_dice">Zar at</string>
+    <string name="clear_dice">Temizle</string>
+</resources>
